@@ -4,4 +4,5 @@ Git練習
 プッシュ
 diffはトータスで出来る！
 基本操作は出来たー
-testtest2のブランチをさわってるるるるる
+testtest2のブランチをさわってる!
+git master?
