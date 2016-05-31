@@ -5,4 +5,4 @@ Git練習
 diffはトータスで出来る！
 基本操作は出来たー
 testtest2のブランチをさわってる!
-git master?
+git masterにコミットした～
